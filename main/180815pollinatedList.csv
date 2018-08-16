@@ -1,0 +1,1061 @@
+,source_taxon_name,interaction_type,target_taxon_name
+0,Graphium sarpedon,pollinates,Musaenda parviflora
+1,Graphium sarpedon,pollinates,Cornus alpina
+2,Graphium sarpedon,pollinates,Polygonum thunbergii
+3,Graphium sarpedon,pollinates,Stenactis annua
+4,Graphium sarpedon,pollinates,Schima
+5,Graphium sarpedon,pollinates,Brucea javanica
+6,Graphium sarpedon,pollinates,Cayratia japonica
+7,Graphium sarpedon,pollinates,Musaenda parviflora
+8,Graphium sarpedon,pollinates,Cornus alpina
+9,Graphium sarpedon,pollinates,Polygonum thunbergii
+10,Graphium sarpedon,pollinates,Stenactis annua
+11,Graphium sarpedon,pollinates,Schima
+12,Graphium sarpedon,pollinates,Brucea javanica
+13,Graphium sarpedon,pollinates,Cayratia japonica
+14,Graphium sarpedon,pollinates,Deutzia
+15,Graphium sarpedon,pollinates,Bauhinia
+16,Graphium sarpedon,pollinates,Ligustrum obtusifolium
+17,Graphium sarpedon,pollinates,Deutzia scabra
+18,Graphium sarpedon,pollinates,Pittosporum tobira
+19,Graphium sarpedon,pollinates,Deutzia
+20,Graphium sarpedon,pollinates,Bauhinia
+21,Graphium sarpedon,pollinates,Ligustrum obtusifolium
+22,Graphium sarpedon,pollinates,Deutzia scabra
+23,Graphium sarpedon,pollinates,Pittosporum tobira
+0,Autographa gamma,pollinates,Daphne
+1,Autographa gamma,pollinates,Daphne
+2,Autographa gamma,pollinates,Platanthera chlorantha
+3,Autographa gamma,pollinates,Platanthera chlorantha
+0,Pieris brassicae,pollinates,Reichardia picroides
+1,Pieris brassicae,pollinates,Malcolmia chia
+2,Pieris brassicae,pollinates,Petrorhagia dubia
+3,Pieris brassicae,pollinates,Tremastelma
+4,Pieris brassicae,pollinates,Pterocephalus papposus
+5,Pieris brassicae,pollinates,Cardaria draba
+6,Pieris brassicae,pollinates,Dittrichia graveolens
+7,Pieris brassicae,pollinates,Heliotropium europaeum
+8,Pieris brassicae,pollinates,Thymus capitatus
+9,Pieris brassicae,pollinates,Bellardia trixago
+10,Pieris brassicae,pollinates,Asphodelus aestivus
+11,Pieris brassicae,pollinates,Scorzonera
+12,Pieris brassicae,pollinates,Astragalus monspessulanus
+13,Pieris brassicae,pollinates,Eruca vesicaria
+14,Pieris brassicae,pollinates,Salvia verbenaca
+15,Pieris brassicae,pollinates,Erodium malacoides
+16,Pieris brassicae,pollinates,Leontodon autumnalis
+17,Pieris brassicae,pollinates,Ornithogalum
+18,Pieris brassicae,pollinates,Daphne
+19,Pieris brassicae,pollinates,Heliotropium
+20,Pieris brassicae,pollinates,Echium
+21,Pieris brassicae,pollinates,Centaurea
+22,Pieris brassicae,pollinates,Geranium rotundifolium
+23,Pieris brassicae,pollinates,Scabiosa atropurpurea
+24,Pieris brassicae,pollinates,Carduus pycnocephalus
+25,Pieris brassicae,pollinates,Reichardia picroides
+26,Pieris brassicae,pollinates,Malcolmia chia
+27,Pieris brassicae,pollinates,Petrorhagia dubia
+28,Pieris brassicae,pollinates,Tremastelma
+29,Pieris brassicae,pollinates,Pterocephalus papposus
+30,Pieris brassicae,pollinates,Cardaria draba
+31,Pieris brassicae,pollinates,Dittrichia graveolens
+32,Pieris brassicae,pollinates,Heliotropium europaeum
+33,Pieris brassicae,pollinates,Thymus capitatus
+34,Pieris brassicae,pollinates,Bellardia trixago
+35,Pieris brassicae,pollinates,Asphodelus aestivus
+36,Pieris brassicae,pollinates,Scorzonera
+37,Pieris brassicae,pollinates,Astragalus monspessulanus
+38,Pieris brassicae,pollinates,Eruca vesicaria
+39,Pieris brassicae,pollinates,Salvia verbenaca
+40,Pieris brassicae,pollinates,Erodium malacoides
+41,Pieris brassicae,pollinates,Leontodon autumnalis
+42,Pieris brassicae,pollinates,Ornithogalum
+43,Pieris brassicae,pollinates,Daphne
+44,Pieris brassicae,pollinates,Heliotropium
+45,Pieris brassicae,pollinates,Echium
+46,Pieris brassicae,pollinates,Centaurea
+47,Pieris brassicae,pollinates,Geranium rotundifolium
+48,Pieris brassicae,pollinates,Scabiosa atropurpurea
+49,Pieris brassicae,pollinates,Carduus pycnocephalus
+50,Pieris brassicae,pollinates,Sisymbrium orientale
+51,Pieris brassicae,pollinates,Hypochaeris radicata
+52,Pieris brassicae,pollinates,Erodium cicutarium
+53,Pieris brassicae,pollinates,Sisymbrium orientale
+54,Pieris brassicae,pollinates,Hypochaeris radicata
+55,Pieris brassicae,pollinates,Erodium cicutarium
+0,Agrotis ipsilon,pollinates,Hebe salicifolia
+1,Agrotis ipsilon,pollinates,Dipsacus sylvestris
+2,Agrotis ipsilon,pollinates,Heuchera
+3,Agrotis ipsilon,pollinates,Gaura
+4,Agrotis ipsilon,pollinates,Hibiscus trionum
+5,Agrotis ipsilon,pollinates,Apios americana
+6,Agrotis ipsilon,pollinates,Aquilegia canadensis
+7,Agrotis ipsilon,pollinates,Hibiscus laevis
+8,Agrotis ipsilon,pollinates,Asclepias purpurascens
+9,Agrotis ipsilon,pollinates,Heliopsis helianthoides
+10,Agrotis ipsilon,pollinates,Echinacea pallida
+11,Agrotis ipsilon,pollinates,Hydrophyllum appendiculatum
+12,Agrotis ipsilon,pollinates,Symphyotrichum cordifolium
+13,Agrotis ipsilon,pollinates,Blephilia hirsuta
+14,Agrotis ipsilon,pollinates,Asclepias verticillata
+15,Agrotis ipsilon,pollinates,Apocynum cannabinum
+16,Agrotis ipsilon,pollinates,Apocynum androsaemifolium
+17,Agrotis ipsilon,pollinates,Hebe salicifolia
+18,Agrotis ipsilon,pollinates,Dipsacus sylvestris
+19,Agrotis ipsilon,pollinates,Heuchera
+20,Agrotis ipsilon,pollinates,Gaura
+21,Agrotis ipsilon,pollinates,Hibiscus trionum
+22,Agrotis ipsilon,pollinates,Apios americana
+23,Agrotis ipsilon,pollinates,Aquilegia canadensis
+24,Agrotis ipsilon,pollinates,Hibiscus laevis
+25,Agrotis ipsilon,pollinates,Asclepias purpurascens
+26,Agrotis ipsilon,pollinates,Heliopsis helianthoides
+27,Agrotis ipsilon,pollinates,Echinacea pallida
+28,Agrotis ipsilon,pollinates,Hydrophyllum appendiculatum
+29,Agrotis ipsilon,pollinates,Symphyotrichum cordifolium
+30,Agrotis ipsilon,pollinates,Blephilia hirsuta
+31,Agrotis ipsilon,pollinates,Asclepias verticillata
+32,Agrotis ipsilon,pollinates,Apocynum cannabinum
+33,Agrotis ipsilon,pollinates,Apocynum androsaemifolium
+34,Agrotis ipsilon,pollinates,Asparagus officinalis
+35,Agrotis ipsilon,pollinates,Asparagus officinalis
+0,Eristalis flavipes,pollinates,Rubus deliciosus
+1,Eristalis flavipes,pollinates,Datura stramonium
+2,Eristalis flavipes,pollinates,Coreopsis tripteris
+3,Eristalis flavipes,pollinates,Phyla lanceolata
+4,Eristalis flavipes,pollinates,Abutilon theophrasti
+5,Eristalis flavipes,pollinates,Rubus deliciosus
+6,Eristalis flavipes,pollinates,Datura stramonium
+7,Eristalis flavipes,pollinates,Coreopsis tripteris
+8,Eristalis flavipes,pollinates,Phyla lanceolata
+9,Eristalis flavipes,pollinates,Abutilon theophrasti
+10,Eristalis flavipes,pollinates,Ammannia coccinea
+11,Eristalis flavipes,pollinates,Ammannia coccinea
+0,Polistes dominula,pollinates,Cistus parviflorus
+1,Polistes dominula,pollinates,Fumana
+2,Polistes dominula,pollinates,Cistus parviflorus
+3,Polistes dominula,pollinates,Fumana
+4,Polistes dominula,pollinates,Thapsia garganica
+5,Polistes dominula,pollinates,Thymus capitatus
+6,Polistes dominula,pollinates,Echinops
+7,Polistes dominula,pollinates,Euphorbia
+8,Polistes dominula,pollinates,Thapsia garganica
+9,Polistes dominula,pollinates,Thymus capitatus
+10,Polistes dominula,pollinates,Echinops
+11,Polistes dominula,pollinates,Euphorbia
+0,Bombus impatiens,pollinates,Ledum groenlandicum
+1,Bombus impatiens,pollinates,Erigeron divergens
+2,Bombus impatiens,pollinates,Kalmia polifolia
+3,Bombus impatiens,pollinates,Castilleja coccinea
+4,Bombus impatiens,pollinates,Phryma leptostachya
+5,Bombus impatiens,pollinates,Gaylussacia baccata
+6,Bombus impatiens,pollinates,Datura stramonium
+7,Bombus impatiens,pollinates,Vaccinium myrtilloides
+8,Bombus impatiens,pollinates,Ludwigia polycarpa
+9,Bombus impatiens,pollinates,Justicia americana
+10,Bombus impatiens,pollinates,Spiraea alba
+11,Bombus impatiens,pollinates,Marrubium vulgare
+12,Bombus impatiens,pollinates,Phlox pilosa
+13,Bombus impatiens,pollinates,Melanthium virginicum
+14,Bombus impatiens,pollinates,Physalis hispida
+15,Bombus impatiens,pollinates,Geum vernum
+16,Bombus impatiens,pollinates,Chamaedaphne calyculata
+17,Bombus impatiens,pollinates,Erythronium albidum
+18,Bombus impatiens,pollinates,Andromeda polifolia latifolia
+19,Bombus impatiens,pollinates,Ledum groenlandicum
+20,Bombus impatiens,pollinates,Erigeron divergens
+21,Bombus impatiens,pollinates,Kalmia polifolia
+22,Bombus impatiens,pollinates,Castilleja coccinea
+23,Bombus impatiens,pollinates,Phryma leptostachya
+24,Bombus impatiens,pollinates,Gaylussacia baccata
+25,Bombus impatiens,pollinates,Datura stramonium
+26,Bombus impatiens,pollinates,Vaccinium myrtilloides
+27,Bombus impatiens,pollinates,Ludwigia polycarpa
+28,Bombus impatiens,pollinates,Justicia americana
+29,Bombus impatiens,pollinates,Spiraea alba
+30,Bombus impatiens,pollinates,Marrubium vulgare
+31,Bombus impatiens,pollinates,Phlox pilosa
+32,Bombus impatiens,pollinates,Melanthium virginicum
+33,Bombus impatiens,pollinates,Physalis hispida
+34,Bombus impatiens,pollinates,Geum vernum
+35,Bombus impatiens,pollinates,Chamaedaphne calyculata
+36,Bombus impatiens,pollinates,Erythronium albidum
+37,Bombus impatiens,pollinates,Andromeda polifolia latifolia
+0,Apis mellifera,pollinates,Roussea simplex 
+1,Apis mellifera,pollinates,Bertiera zaluzania 
+2,Apis mellifera,pollinates,Scorzonea humilis
+3,Apis mellifera,pollinates,Parolinea intermedia
+4,Apis mellifera,pollinates,Bursera simaruba 
+5,Apis mellifera,pollinates,Dendropanax arboreus 
+6,Apis mellifera,pollinates,Stegolepsis angustata
+7,Apis mellifera,pollinates,Reseada luteola
+8,Apis mellifera,pollinates,Stachytapheta jamaicensis
+9,Apis mellifera,pollinates,Tourneortia argentea
+10,Apis mellifera,pollinates,Lomelosia stellata
+11,Apis mellifera,pollinates,Sedum sediforme
+12,Apis mellifera,pollinates,Nepenthes pervillei
+13,Apis mellifera,pollinates,Diplopterys pubipetala
+14,Apis mellifera,pollinates,Byrsonima gardneriana
+15,Apis mellifera,pollinates,Heteropterys
+16,Apis mellifera,pollinates,Ixora parviflora
+17,Apis mellifera,pollinates,Faujasiopsis flexuosa
+18,Apis mellifera,pollinates,Stillingia lineata
+19,Apis mellifera,pollinates,Crepidiastrum lanceolatum
+20,Apis mellifera,pollinates,Capraria biflora
+21,Apis mellifera,pollinates,Ilex mucronata
+22,Apis mellifera,pollinates,Plocama pendula
+23,Apis mellifera,pollinates,Wedelia hookeriana
+24,Apis mellifera,pollinates,Luma apiculata
+25,Apis mellifera,pollinates,Poecilandra retusa
+26,Apis mellifera,pollinates,Bonnetia sessilis
+27,Apis mellifera,pollinates,Nematopogon
+28,Apis mellifera,pollinates,Heliamphora heterodoxa
+29,Apis mellifera,pollinates,Macairea pachyphylla
+30,Apis mellifera,pollinates,Siphanthera cordifolia
+31,Apis mellifera,pollinates,Pagameopsis garryoides
+32,Apis mellifera,pollinates,Ludwigia nervosa
+33,Apis mellifera,pollinates,Desmoscelis villosa
+34,Apis mellifera,pollinates,Hyptis conferta
+35,Apis mellifera,pollinates,Syngonanthus caulescens
+36,Apis mellifera,pollinates,Xyris savanensis
+37,Apis mellifera,pollinates,Mimosa camporum
+38,Apis mellifera,pollinates,Schultesia brachyptera
+39,Apis mellifera,pollinates,Spermacoce multiflora
+40,Apis mellifera,pollinates,Grindelia chiloensis
+41,Apis mellifera,pollinates,Tiarella cordifolia
+42,Apis mellifera,pollinates,Cedronella canariensis
+43,Apis mellifera,pollinates,Andryala pinnatifida
+44,Apis mellifera,pollinates,Sonchus tenerrimus
+45,Apis mellifera,pollinates,Azorina vidalii
+46,Apis mellifera,pollinates,Halimium halimifolium
+47,Apis mellifera,pollinates,Halimium
+48,Apis mellifera,pollinates,Ulex genistoides
+49,Apis mellifera,pollinates,Scandix australis
+50,Apis mellifera,pollinates,Cistus parviflorus
+51,Apis mellifera,pollinates,Convolvulus althaeoides
+52,Apis mellifera,pollinates,Phagnalon rupestre graecum
+53,Apis mellifera,pollinates,Alkanna tinctoria
+54,Apis mellifera,pollinates,Muscari comosum
+55,Apis mellifera,pollinates,Prasium majus
+56,Apis mellifera,pollinates,Plantago lagopus
+57,Apis mellifera,pollinates,Reichardia picroides
+58,Apis mellifera,pollinates,Fumana
+59,Apis mellifera,pollinates,Malcolmia chia
+60,Apis mellifera,pollinates,Petrorhagia dubia
+61,Apis mellifera,pollinates,Tremastelma
+62,Apis mellifera,pollinates,Lathyrus cicera
+63,Apis mellifera,pollinates,Pterocephalus papposus
+64,Apis mellifera,pollinates,Thymelaea tartonraira
+65,Apis mellifera,pollinates,Hymenocarpos circinnatus
+66,Apis mellifera,pollinates,Sarcopoterium spinosum
+67,Apis mellifera,pollinates,Xysmalobium gerrardii
+68,Apis mellifera,pollinates,Sisyranthus trichostomus
+69,Apis mellifera,pollinates,Aspidonepsis diploglossa
+70,Apis mellifera,pollinates,Rabdosia
+71,Apis mellifera,pollinates,Polygonum thunbergii
+72,Apis mellifera,pollinates,Polyscias maraisiana
+73,Apis mellifera,pollinates,Pemphis acidula
+74,Apis mellifera,pollinates,Ipomoea violacea
+75,Apis mellifera,pollinates,Opulaster opulifolius
+76,Apis mellifera,pollinates,Asclepias hallii
+77,Apis mellifera,pollinates,Thalictrum fendleri
+78,Apis mellifera,pollinates,Echium wildpretii
+79,Apis mellifera,pollinates,Pimpinella cumbrae
+80,Apis mellifera,pollinates,Pterocephalus lasiospermus
+81,Apis mellifera,pollinates,Cytisus supranubius
+82,Apis mellifera,pollinates,Argyranthemum tenerifae
+83,Apis mellifera,pollinates,Isodon inflexus
+84,Apis mellifera,pollinates,Swida
+85,Apis mellifera,pollinates,Arnica montana
+86,Apis mellifera,pollinates,Cardaria draba
+87,Apis mellifera,pollinates,Daphnopsis americana
+88,Apis mellifera,pollinates,Saussurea
+89,Apis mellifera,pollinates,Sideritis
+90,Apis mellifera,pollinates,Thymelaea hirsuta
+91,Apis mellifera,pollinates,Drimia maritima
+92,Apis mellifera,pollinates,Helichrysum stoechas
+93,Apis mellifera,pollinates,Chondrilla juncea
+94,Apis mellifera,pollinates,Thapsia garganica
+95,Apis mellifera,pollinates,Turnera ulmifolia
+96,Apis mellifera,pollinates,Banisteriopsis muricata
+97,Apis mellifera,pollinates,Chondrilla
+98,Apis mellifera,pollinates,Brucea javanica
+99,Apis mellifera,pollinates,Hydrangea paniculata
+100,Apis mellifera,pollinates,Galactites tomentosa
+101,Apis mellifera,pollinates,Globularia alypum
+102,Apis mellifera,pollinates,Anemone pavonina
+103,Apis mellifera,pollinates,Heliotropium europaeum
+104,Apis mellifera,pollinates,Thymus capitatus
+105,Apis mellifera,pollinates,Asparagus acutifolius
+106,Apis mellifera,pollinates,Cordia globosa
+107,Apis mellifera,pollinates,Erica arborea
+108,Apis mellifera,pollinates,Cistus monspeliensis
+109,Apis mellifera,pollinates,Asphodelus aestivus
+110,Apis mellifera,pollinates,Dahlia coccinea
+111,Apis mellifera,pollinates,Ballota acetabulosa
+112,Apis mellifera,pollinates,Ecballium elaterium
+113,Apis mellifera,pollinates,Weigela hortensis
+114,Apis mellifera,pollinates,Lavandula stoechas
+115,Apis mellifera,pollinates,Bauhinia divaricata
+116,Apis mellifera,pollinates,Cayratia japonica
+117,Apis mellifera,pollinates,Sphagneticola trilobata
+118,Apis mellifera,pollinates,Medusagyne oppositifolia
+119,Apis mellifera,pollinates,Colea seychellarum
+120,Apis mellifera,pollinates,Craterispermum microdon
+121,Apis mellifera,pollinates,Premna serratifolia
+122,Apis mellifera,pollinates,Northea
+123,Apis mellifera,pollinates,Alstonia macrophylla
+124,Apis mellifera,pollinates,Gastonia
+125,Apis mellifera,pollinates,Memecylon elaeagni
+126,Apis mellifera,pollinates,Nephrosperma van-houtteanum
+127,Apis mellifera,pollinates,Paragenipa
+128,Apis mellifera,pollinates,Roscheria melanochaetes
+129,Apis mellifera,pollinates,Memecylon ovatifolium
+130,Apis mellifera,pollinates,Geniostoma borbonicum
+131,Apis mellifera,pollinates,Antirhea borbonica
+132,Apis mellifera,pollinates,Cordemoya integrifolia
+133,Apis mellifera,pollinates,Grangeria borbonica
+134,Apis mellifera,pollinates,Molinaea
+135,Apis mellifera,pollinates,Eugenia kanakana
+136,Apis mellifera,pollinates,Psiadia terebinthina
+137,Apis mellifera,pollinates,Pyrostria fasciculata
+138,Apis mellifera,pollinates,Warneckea trinervis
+139,Apis mellifera,pollinates,Badula insularis
+140,Apis mellifera,pollinates,Labourdonnaisia calophylloides
+141,Apis mellifera,pollinates,Piscidia piscipula
+142,Apis mellifera,pollinates,Gonzalagunia hirsuta
+143,Apis mellifera,pollinates,Anchusa undulata
+144,Apis mellifera,pollinates,Penstemon secundiflorus
+145,Apis mellifera,pollinates,Capparis odoratissima
+146,Apis mellifera,pollinates,Erysimum scoparium
+147,Apis mellifera,pollinates,Astragalus sinicus
+148,Apis mellifera,pollinates,Astilbe thunbergii
+149,Apis mellifera,pollinates,Pimelea ligustrina
+150,Apis mellifera,pollinates,Justicia procumbens
+151,Apis mellifera,pollinates,Scorzonera
+152,Apis mellifera,pollinates,Osyris
+153,Apis mellifera,pollinates,Astragalus monspessulanus
+154,Apis mellifera,pollinates,Excoecaria
+155,Apis mellifera,pollinates,Anthyllis
+156,Apis mellifera,pollinates,Tribulus cistoides
+157,Apis mellifera,pollinates,Cardamine angustata
+158,Apis mellifera,pollinates,Eruca vesicaria
+159,Apis mellifera,pollinates,Flagellaria indica
+160,Apis mellifera,pollinates,Salvia verbenaca
+161,Apis mellifera,pollinates,Biscutella didyma
+162,Apis mellifera,pollinates,Erodium malacoides
+163,Apis mellifera,pollinates,Gagea
+164,Apis mellifera,pollinates,Reseda alba
+165,Apis mellifera,pollinates,Phillyrea
+166,Apis mellifera,pollinates,Epipactis palustris
+167,Apis mellifera,pollinates,Ajuga reptans
+168,Apis mellifera,pollinates,Matricaria recutita
+169,Apis mellifera,pollinates,Ornithogalum
+170,Apis mellifera,pollinates,Humiria
+171,Apis mellifera,pollinates,Evodia
+172,Apis mellifera,pollinates,Rubus deliciosus
+173,Apis mellifera,pollinates,Stanleya
+174,Apis mellifera,pollinates,Clusia
+175,Apis mellifera,pollinates,Hirschfeldia incana
+176,Apis mellifera,pollinates,Mentzelia multiflora
+177,Apis mellifera,pollinates,Frasera speciosa
+178,Apis mellifera,pollinates,Phlomis
+179,Apis mellifera,pollinates,Cistus salviifolius
+180,Apis mellifera,pollinates,Cistus albidus
+181,Apis mellifera,pollinates,Alternanthera ficoidea
+182,Apis mellifera,pollinates,Dracaena reflexa
+183,Apis mellifera,pollinates,Evolvulus
+184,Apis mellifera,pollinates,Crocus
+185,Apis mellifera,pollinates,Berberis darwinii
+186,Apis mellifera,pollinates,Lespedeza bicolor
+187,Apis mellifera,pollinates,Thespesia populnea
+188,Apis mellifera,pollinates,Erythronium umbilicatum
+189,Apis mellifera,pollinates,Abelia
+190,Apis mellifera,pollinates,Cyclamen
+191,Apis mellifera,pollinates,Satureja
+192,Apis mellifera,pollinates,Asclepias speciosa
+193,Apis mellifera,pollinates,Geranium richardsonii
+194,Apis mellifera,pollinates,Ligustrum japonicum
+195,Apis mellifera,pollinates,Castanea crenata
+196,Apis mellifera,pollinates,Mimosa
+197,Apis mellifera,pollinates,Tilia
+198,Apis mellifera,pollinates,Alcea
+199,Apis mellifera,pollinates,Iris
+200,Apis mellifera,pollinates,Phthirusa
+201,Apis mellifera,pollinates,Oxalis pes-caprae
+202,Apis mellifera,pollinates,Carpobrotus
+203,Apis mellifera,pollinates,Rubus alceifolius
+204,Apis mellifera,pollinates,Sarcostemma
+205,Apis mellifera,pollinates,Spilanthes
+206,Apis mellifera,pollinates,Borreria
+207,Apis mellifera,pollinates,Scaevola taccada
+208,Apis mellifera,pollinates,Erica
+209,Apis mellifera,pollinates,Turraea
+210,Apis mellifera,pollinates,Aphloia theiformis
+211,Apis mellifera,pollinates,Bakerella
+212,Apis mellifera,pollinates,Ochna
+213,Apis mellifera,pollinates,Ehretia
+214,Apis mellifera,pollinates,Chassalia
+215,Apis mellifera,pollinates,Gaertnera
+216,Apis mellifera,pollinates,Mimusops
+217,Apis mellifera,pollinates,Diospyros
+218,Apis mellifera,pollinates,Psychotria
+219,Apis mellifera,pollinates,Calophyllum
+220,Apis mellifera,pollinates,Ternstroemia
+221,Apis mellifera,pollinates,Securinega
+222,Apis mellifera,pollinates,Morinda citrifolia
+223,Apis mellifera,pollinates,Dillenia
+224,Apis mellifera,pollinates,Eugenia
+225,Apis mellifera,pollinates,Olea
+226,Apis mellifera,pollinates,Canthium
+227,Apis mellifera,pollinates,Smilax anceps
+228,Apis mellifera,pollinates,Deckenia nobilis
+229,Apis mellifera,pollinates,Phoenicophorium borsigianum
+230,Apis mellifera,pollinates,Cassiope tetragona
+231,Apis mellifera,pollinates,Salix
+232,Apis mellifera,pollinates,Geraniaceae
+233,Apis mellifera,pollinates,Cytisus
+234,Apis mellifera,pollinates,Ulex
+235,Apis mellifera,pollinates,Ononis
+236,Apis mellifera,pollinates,Calliandra
+237,Apis mellifera,pollinates,Xyris
+238,Apis mellifera,pollinates,Coffea
+239,Apis mellifera,pollinates,Sorbus
+240,Apis mellifera,pollinates,Pandanus
+241,Apis mellifera,pollinates,Hemerocallis
+242,Apis mellifera,pollinates,Muscari
+243,Apis mellifera,pollinates,Scilla
+244,Apis mellifera,pollinates,Chrysanthemum
+245,Apis mellifera,pollinates,Heliotropium
+246,Apis mellifera,pollinates,Ipomoea
+247,Apis mellifera,pollinates,Stachys
+248,Apis mellifera,pollinates,Vitex
+249,Apis mellifera,pollinates,Erythroxylum
+250,Apis mellifera,pollinates,Teucrium
+251,Apis mellifera,pollinates,Hydrangea
+252,Apis mellifera,pollinates,Echium
+253,Apis mellifera,pollinates,Vernonia
+254,Apis mellifera,pollinates,Centaurea
+255,Apis mellifera,pollinates,Hypericum
+256,Apis mellifera,pollinates,Miconia
+257,Apis mellifera,pollinates,Pittosporum
+258,Apis mellifera,pollinates,Verbascum
+259,Apis mellifera,pollinates,Lavandula
+260,Apis mellifera,pollinates,Ligustrum obtusifolium
+261,Apis mellifera,pollinates,Capparis
+262,Apis mellifera,pollinates,Elaeagnus
+263,Apis mellifera,pollinates,Casearia
+264,Apis mellifera,pollinates,Helichrysum
+265,Apis mellifera,pollinates,Anchusa
+266,Apis mellifera,pollinates,Gaultheria
+267,Apis mellifera,pollinates,Vismia
+268,Apis mellifera,pollinates,Cimicifuga
+269,Apis mellifera,pollinates,Dendropanax
+270,Apis mellifera,pollinates,Echinops
+271,Apis mellifera,pollinates,Holodiscus dumosus
+272,Apis mellifera,pollinates,Leucaena leucocephala
+273,Apis mellifera,pollinates,Mikania micrantha
+274,Apis mellifera,pollinates,Acanthus spinosus
+275,Apis mellifera,pollinates,Cinnamomum verum
+276,Apis mellifera,pollinates,Tradescantia virginiana
+277,Apis mellifera,pollinates,Stachytarpheta jamaicensis
+278,Apis mellifera,pollinates,Lantana involucrata
+279,Apis mellifera,pollinates,Jamesia americana
+280,Apis mellifera,pollinates,Trientalis europaea
+281,Apis mellifera,pollinates,Kalmia polifolia
+282,Apis mellifera,pollinates,Passiflora suberosa
+283,Apis mellifera,pollinates,Talipariti tiliaceum
+284,Apis mellifera,pollinates,Opuntia stricta
+285,Apis mellifera,pollinates,Enemion biternatum
+286,Apis mellifera,pollinates,Rubus ulmifolius
+287,Apis mellifera,pollinates,Paraserianthes falcataria
+288,Apis mellifera,pollinates,Geranium rotundifolium
+289,Apis mellifera,pollinates,Scabiosa atropurpurea
+290,Apis mellifera,pollinates,Rosa rubiginosa
+291,Apis mellifera,pollinates,Veronica persica
+292,Apis mellifera,pollinates,Carduus pycnocephalus
+293,Apis mellifera,pollinates,Echium plantagineum
+294,Apis mellifera,pollinates,Sternbergia lutea
+295,Apis mellifera,pollinates,Allium neapolitanum
+296,Apis mellifera,pollinates,Fritillaria graeca
+297,Apis mellifera,pollinates,Sideroxylon
+298,Apis mellifera,pollinates,Psidium cattleianum
+299,Apis mellifera,pollinates,Syzygium
+300,Apis mellifera,pollinates,Embothrium coccineum
+301,Apis mellifera,pollinates,Berberis buxifolia
+302,Apis mellifera,pollinates,Rosmarinus officinalis
+303,Apis mellifera,pollinates,Genista anglica
+304,Apis mellifera,pollinates,Anemone americana
+305,Apis mellifera,pollinates,Gaylussacia baccata
+306,Apis mellifera,pollinates,Morinda royoc
+307,Apis mellifera,pollinates,Agarista salicifolia
+308,Apis mellifera,pollinates,Rhaphithamnus spinosus
+309,Apis mellifera,pollinates,Trochetia blackburniana
+310,Apis mellifera,pollinates,Amomyrtus luma
+311,Apis mellifera,pollinates,Amomyrtus meli
+312,Apis mellifera,pollinates,Myrceugenia ovata
+313,Apis mellifera,pollinates,Myrceugenia parvifolia
+314,Apis mellifera,pollinates,Myrceugenia planipes
+315,Apis mellifera,pollinates,Tepualia stipularis
+316,Apis mellifera,pollinates,Ugni molinae
+317,Apis mellifera,pollinates,Ovidia andina
+318,Apis mellifera,pollinates,Caldcluvia paniculata
+319,Apis mellifera,pollinates,Eucryphia cordifolia
+320,Apis mellifera,pollinates,Hydrangea serratifolia
+321,Apis mellifera,pollinates,Cordia gerascanthus
+322,Apis mellifera,pollinates,Pieris japonica
+323,Apis mellifera,pollinates,Cirsium oleraceum
+324,Apis mellifera,pollinates,Epilobium hirsutum
+325,Apis mellifera,pollinates,Malva sylvestris
+326,Apis mellifera,pollinates,Hydrangea macrophylla
+327,Apis mellifera,pollinates,Stachys sylvatica
+328,Apis mellifera,pollinates,Centaurea jacea
+329,Apis mellifera,pollinates,Ulex minor
+330,Apis mellifera,pollinates,Saxifraga oppositifolia
+331,Apis mellifera,pollinates,Calendula arvensis
+332,Apis mellifera,pollinates,Erica tetralix
+333,Apis mellifera,pollinates,Papaver rhoeas
+334,Apis mellifera,pollinates,Anemone coronaria
+335,Apis mellifera,pollinates,Solidago virgaurea
+336,Apis mellifera,pollinates,Lythrum salicaria
+337,Apis mellifera,pollinates,Vaccinium myrtilloides
+338,Apis mellifera,pollinates,Succisa pratensis
+339,Apis mellifera,pollinates,Potentilla erecta
+340,Apis mellifera,pollinates,Sherardia arvensis
+341,Apis mellifera,pollinates,Fallopia japonica
+342,Apis mellifera,pollinates,Berberis thunbergii
+343,Apis mellifera,pollinates,Salix aurita
+344,Apis mellifera,pollinates,Brassica rapa oleifera
+345,Apis mellifera,pollinates,Sisymbrium orientale
+346,Apis mellifera,pollinates,Vaccinium myrtillus
+347,Apis mellifera,pollinates,Rubus idaeus
+348,Apis mellifera,pollinates,Salix repens
+349,Apis mellifera,pollinates,Calluna vulgaris
+350,Apis mellifera,pollinates,Hieracium umbellatum
+351,Apis mellifera,pollinates,Centaurea nigra
+352,Apis mellifera,pollinates,Hypochaeris radicata
+353,Apis mellifera,pollinates,Angelica sylvestris
+354,Apis mellifera,pollinates,Cytisus scoparius
+355,Apis mellifera,pollinates,Linaria vulgaris
+356,Apis mellifera,pollinates,Sanguinaria canadensis
+357,Apis mellifera,pollinates,Dicentra cucullaria
+358,Apis mellifera,pollinates,Lotus corniculatus
+359,Apis mellifera,pollinates,Trifolium stellatum
+360,Apis mellifera,pollinates,Persicaria amphibia
+361,Apis mellifera,pollinates,Trifolium arvense
+362,Apis mellifera,pollinates,Cardamine concatenata
+363,Apis mellifera,pollinates,Cirsium arvense
+364,Apis mellifera,pollinates,Campanula rotundifolia
+365,Apis mellifera,pollinates,Dalea purpurea
+366,Apis mellifera,pollinates,Dalea candida
+367,Apis mellifera,pollinates,Claytonia virginica
+368,Apis mellifera,pollinates,Erythronium albidum
+369,Apis mellifera,pollinates,Iris pseudacorus
+370,Apis mellifera,pollinates,Vaccinium
+371,Apis mellifera,pollinates,Arctostaphylos uva-ursi
+372,Apis mellifera,pollinates,Rosa acicularis
+373,Apis mellifera,pollinates,Chamerion angustifolium
+374,Apis mellifera,pollinates,Solidago missouriensis
+375,Apis mellifera,pollinates,Daucus carota carota
+376,Apis mellifera,pollinates,Cistus
+377,Apis mellifera,pollinates,Salvia
+378,Apis mellifera,pollinates,Allium
+379,Apis mellifera,pollinates,Epilobium
+380,Apis mellifera,pollinates,Convolvulus
+381,Apis mellifera,pollinates,Hieracium
+382,Apis mellifera,pollinates,Hypochaeris
+383,Apis mellifera,pollinates,Salix fragilis
+384,Apis mellifera,pollinates,Vaccinium uliginosum
+385,Apis mellifera,pollinates,Vaccinium vitis-idaea
+386,Apis mellifera,pollinates,Gevuina avellana
+387,Apis mellifera,pollinates,Medicago lupulina
+388,Apis mellifera,pollinates,Trifolium repens
+389,Apis mellifera,pollinates,Bidens frondosa
+390,Apis mellifera,pollinates,Polygonum ellipticum
+391,Apis mellifera,pollinates,Diospyros
+392,Apis mellifera,pollinates,Convolvulus arvensis
+393,Apis mellifera,pollinates,null
+394,Apis mellifera,pollinates,Cordia
+395,Apis mellifera,pollinates,Sideroxylon
+396,Apis mellifera,pollinates,Avicennia germinans
+397,Apis mellifera,pollinates,Chrysobalanus
+398,Apis mellifera,pollinates,Cirsium vulgare
+399,Apis mellifera,pollinates,Euphorbia
+400,Apis mellifera,pollinates,Sanguinaria canadensis
+401,Apis mellifera,pollinates,Rhododendron
+402,Apis mellifera,pollinates,Taraxacum officinale
+403,Apis mellifera,pollinates,Croton
+404,Apis mellifera,pollinates,Lamium amplexicaule
+405,Apis mellifera,pollinates,Erodium cicutarium
+406,Apis mellifera,pollinates,Ranunculus
+407,Apis mellifera,pollinates,Silene
+408,Apis mellifera,pollinates,Senecio vulgaris
+409,Apis mellifera,pollinates,Roussea simplex 
+410,Apis mellifera,pollinates,Bertiera zaluzania 
+411,Apis mellifera,pollinates,Scorzonea humilis
+412,Apis mellifera,pollinates,Parolinea intermedia
+413,Apis mellifera,pollinates,Bursera simaruba 
+414,Apis mellifera,pollinates,Dendropanax arboreus 
+415,Apis mellifera,pollinates,Stegolepsis angustata
+416,Apis mellifera,pollinates,Reseada luteola
+417,Apis mellifera,pollinates,Stachytapheta jamaicensis
+418,Apis mellifera,pollinates,Tourneortia argentea
+419,Apis mellifera,pollinates,Lomelosia stellata
+420,Apis mellifera,pollinates,Sedum sediforme
+421,Apis mellifera,pollinates,Nepenthes pervillei
+422,Apis mellifera,pollinates,Diplopterys pubipetala
+423,Apis mellifera,pollinates,Byrsonima gardneriana
+424,Apis mellifera,pollinates,Heteropterys
+425,Apis mellifera,pollinates,Ixora parviflora
+426,Apis mellifera,pollinates,Faujasiopsis flexuosa
+427,Apis mellifera,pollinates,Stillingia lineata
+428,Apis mellifera,pollinates,Crepidiastrum lanceolatum
+429,Apis mellifera,pollinates,Capraria biflora
+430,Apis mellifera,pollinates,Ilex mucronata
+431,Apis mellifera,pollinates,Plocama pendula
+432,Apis mellifera,pollinates,Wedelia hookeriana
+433,Apis mellifera,pollinates,Luma apiculata
+434,Apis mellifera,pollinates,Poecilandra retusa
+435,Apis mellifera,pollinates,Bonnetia sessilis
+436,Apis mellifera,pollinates,Nematopogon
+437,Apis mellifera,pollinates,Heliamphora heterodoxa
+438,Apis mellifera,pollinates,Macairea pachyphylla
+439,Apis mellifera,pollinates,Siphanthera cordifolia
+440,Apis mellifera,pollinates,Pagameopsis garryoides
+441,Apis mellifera,pollinates,Ludwigia nervosa
+442,Apis mellifera,pollinates,Desmoscelis villosa
+443,Apis mellifera,pollinates,Hyptis conferta
+444,Apis mellifera,pollinates,Syngonanthus caulescens
+445,Apis mellifera,pollinates,Xyris savanensis
+446,Apis mellifera,pollinates,Mimosa camporum
+447,Apis mellifera,pollinates,Schultesia brachyptera
+448,Apis mellifera,pollinates,Spermacoce multiflora
+449,Apis mellifera,pollinates,Grindelia chiloensis
+450,Apis mellifera,pollinates,Tiarella cordifolia
+451,Apis mellifera,pollinates,Cedronella canariensis
+452,Apis mellifera,pollinates,Andryala pinnatifida
+453,Apis mellifera,pollinates,Sonchus tenerrimus
+454,Apis mellifera,pollinates,Azorina vidalii
+455,Apis mellifera,pollinates,Halimium halimifolium
+456,Apis mellifera,pollinates,Halimium
+457,Apis mellifera,pollinates,Ulex genistoides
+458,Apis mellifera,pollinates,Scandix australis
+459,Apis mellifera,pollinates,Cistus parviflorus
+460,Apis mellifera,pollinates,Convolvulus althaeoides
+461,Apis mellifera,pollinates,Phagnalon rupestre graecum
+462,Apis mellifera,pollinates,Alkanna tinctoria
+463,Apis mellifera,pollinates,Muscari comosum
+464,Apis mellifera,pollinates,Prasium majus
+465,Apis mellifera,pollinates,Plantago lagopus
+466,Apis mellifera,pollinates,Reichardia picroides
+467,Apis mellifera,pollinates,Fumana
+468,Apis mellifera,pollinates,Malcolmia chia
+469,Apis mellifera,pollinates,Petrorhagia dubia
+470,Apis mellifera,pollinates,Tremastelma
+471,Apis mellifera,pollinates,Lathyrus cicera
+472,Apis mellifera,pollinates,Pterocephalus papposus
+473,Apis mellifera,pollinates,Thymelaea tartonraira
+474,Apis mellifera,pollinates,Hymenocarpos circinnatus
+475,Apis mellifera,pollinates,Sarcopoterium spinosum
+476,Apis mellifera,pollinates,Xysmalobium gerrardii
+477,Apis mellifera,pollinates,Sisyranthus trichostomus
+478,Apis mellifera,pollinates,Aspidonepsis diploglossa
+479,Apis mellifera,pollinates,Rabdosia
+480,Apis mellifera,pollinates,Polygonum thunbergii
+481,Apis mellifera,pollinates,Polyscias maraisiana
+482,Apis mellifera,pollinates,Pemphis acidula
+483,Apis mellifera,pollinates,Ipomoea violacea
+484,Apis mellifera,pollinates,Opulaster opulifolius
+485,Apis mellifera,pollinates,Asclepias hallii
+486,Apis mellifera,pollinates,Thalictrum fendleri
+487,Apis mellifera,pollinates,Echium wildpretii
+488,Apis mellifera,pollinates,Pimpinella cumbrae
+489,Apis mellifera,pollinates,Pterocephalus lasiospermus
+490,Apis mellifera,pollinates,Cytisus supranubius
+491,Apis mellifera,pollinates,Argyranthemum tenerifae
+492,Apis mellifera,pollinates,Isodon inflexus
+493,Apis mellifera,pollinates,Swida
+494,Apis mellifera,pollinates,Arnica montana
+495,Apis mellifera,pollinates,Cardaria draba
+496,Apis mellifera,pollinates,Daphnopsis americana
+497,Apis mellifera,pollinates,Saussurea
+498,Apis mellifera,pollinates,Sideritis
+499,Apis mellifera,pollinates,Thymelaea hirsuta
+500,Apis mellifera,pollinates,Drimia maritima
+501,Apis mellifera,pollinates,Helichrysum stoechas
+502,Apis mellifera,pollinates,Chondrilla juncea
+503,Apis mellifera,pollinates,Thapsia garganica
+504,Apis mellifera,pollinates,Turnera ulmifolia
+505,Apis mellifera,pollinates,Banisteriopsis muricata
+506,Apis mellifera,pollinates,Chondrilla
+507,Apis mellifera,pollinates,Brucea javanica
+508,Apis mellifera,pollinates,Hydrangea paniculata
+509,Apis mellifera,pollinates,Galactites tomentosa
+510,Apis mellifera,pollinates,Globularia alypum
+511,Apis mellifera,pollinates,Anemone pavonina
+512,Apis mellifera,pollinates,Heliotropium europaeum
+513,Apis mellifera,pollinates,Thymus capitatus
+514,Apis mellifera,pollinates,Asparagus acutifolius
+515,Apis mellifera,pollinates,Cordia globosa
+516,Apis mellifera,pollinates,Erica arborea
+517,Apis mellifera,pollinates,Cistus monspeliensis
+518,Apis mellifera,pollinates,Asphodelus aestivus
+519,Apis mellifera,pollinates,Dahlia coccinea
+520,Apis mellifera,pollinates,Ballota acetabulosa
+521,Apis mellifera,pollinates,Ecballium elaterium
+522,Apis mellifera,pollinates,Weigela hortensis
+523,Apis mellifera,pollinates,Lavandula stoechas
+524,Apis mellifera,pollinates,Bauhinia divaricata
+525,Apis mellifera,pollinates,Cayratia japonica
+526,Apis mellifera,pollinates,Sphagneticola trilobata
+527,Apis mellifera,pollinates,Medusagyne oppositifolia
+528,Apis mellifera,pollinates,Colea seychellarum
+529,Apis mellifera,pollinates,Craterispermum microdon
+530,Apis mellifera,pollinates,Premna serratifolia
+531,Apis mellifera,pollinates,Northea
+532,Apis mellifera,pollinates,Alstonia macrophylla
+533,Apis mellifera,pollinates,Gastonia
+534,Apis mellifera,pollinates,Memecylon elaeagni
+535,Apis mellifera,pollinates,Nephrosperma van-houtteanum
+536,Apis mellifera,pollinates,Paragenipa
+537,Apis mellifera,pollinates,Roscheria melanochaetes
+538,Apis mellifera,pollinates,Memecylon ovatifolium
+539,Apis mellifera,pollinates,Geniostoma borbonicum
+540,Apis mellifera,pollinates,Antirhea borbonica
+541,Apis mellifera,pollinates,Cordemoya integrifolia
+542,Apis mellifera,pollinates,Grangeria borbonica
+543,Apis mellifera,pollinates,Molinaea
+544,Apis mellifera,pollinates,Eugenia kanakana
+545,Apis mellifera,pollinates,Psiadia terebinthina
+546,Apis mellifera,pollinates,Pyrostria fasciculata
+547,Apis mellifera,pollinates,Warneckea trinervis
+548,Apis mellifera,pollinates,Badula insularis
+549,Apis mellifera,pollinates,Labourdonnaisia calophylloides
+550,Apis mellifera,pollinates,Piscidia piscipula
+551,Apis mellifera,pollinates,Gonzalagunia hirsuta
+552,Apis mellifera,pollinates,Anchusa undulata
+553,Apis mellifera,pollinates,Penstemon secundiflorus
+554,Apis mellifera,pollinates,Capparis odoratissima
+555,Apis mellifera,pollinates,Erysimum scoparium
+556,Apis mellifera,pollinates,Astragalus sinicus
+557,Apis mellifera,pollinates,Astilbe thunbergii
+558,Apis mellifera,pollinates,Pimelea ligustrina
+559,Apis mellifera,pollinates,Justicia procumbens
+560,Apis mellifera,pollinates,Scorzonera
+561,Apis mellifera,pollinates,Osyris
+562,Apis mellifera,pollinates,Astragalus monspessulanus
+563,Apis mellifera,pollinates,Excoecaria
+564,Apis mellifera,pollinates,Anthyllis
+565,Apis mellifera,pollinates,Tribulus cistoides
+566,Apis mellifera,pollinates,Cardamine angustata
+567,Apis mellifera,pollinates,Eruca vesicaria
+568,Apis mellifera,pollinates,Flagellaria indica
+569,Apis mellifera,pollinates,Salvia verbenaca
+570,Apis mellifera,pollinates,Biscutella didyma
+571,Apis mellifera,pollinates,Erodium malacoides
+572,Apis mellifera,pollinates,Gagea
+573,Apis mellifera,pollinates,Reseda alba
+574,Apis mellifera,pollinates,Phillyrea
+575,Apis mellifera,pollinates,Epipactis palustris
+576,Apis mellifera,pollinates,Ajuga reptans
+577,Apis mellifera,pollinates,Matricaria recutita
+578,Apis mellifera,pollinates,Ornithogalum
+579,Apis mellifera,pollinates,Humiria
+580,Apis mellifera,pollinates,Evodia
+581,Apis mellifera,pollinates,Rubus deliciosus
+582,Apis mellifera,pollinates,Stanleya
+583,Apis mellifera,pollinates,Clusia
+584,Apis mellifera,pollinates,Hirschfeldia incana
+585,Apis mellifera,pollinates,Mentzelia multiflora
+586,Apis mellifera,pollinates,Frasera speciosa
+587,Apis mellifera,pollinates,Phlomis
+588,Apis mellifera,pollinates,Cistus salviifolius
+589,Apis mellifera,pollinates,Cistus albidus
+590,Apis mellifera,pollinates,Alternanthera ficoidea
+591,Apis mellifera,pollinates,Dracaena reflexa
+592,Apis mellifera,pollinates,Evolvulus
+593,Apis mellifera,pollinates,Crocus
+594,Apis mellifera,pollinates,Berberis darwinii
+595,Apis mellifera,pollinates,Lespedeza bicolor
+596,Apis mellifera,pollinates,Thespesia populnea
+597,Apis mellifera,pollinates,Erythronium umbilicatum
+598,Apis mellifera,pollinates,Abelia
+599,Apis mellifera,pollinates,Cyclamen
+600,Apis mellifera,pollinates,Satureja
+601,Apis mellifera,pollinates,Asclepias speciosa
+602,Apis mellifera,pollinates,Geranium richardsonii
+603,Apis mellifera,pollinates,Ligustrum japonicum
+604,Apis mellifera,pollinates,Castanea crenata
+605,Apis mellifera,pollinates,Mimosa
+606,Apis mellifera,pollinates,Tilia
+607,Apis mellifera,pollinates,Alcea
+608,Apis mellifera,pollinates,Iris
+609,Apis mellifera,pollinates,Phthirusa
+610,Apis mellifera,pollinates,Oxalis pes-caprae
+611,Apis mellifera,pollinates,Carpobrotus
+612,Apis mellifera,pollinates,Rubus alceifolius
+613,Apis mellifera,pollinates,Sarcostemma
+614,Apis mellifera,pollinates,Spilanthes
+615,Apis mellifera,pollinates,Borreria
+616,Apis mellifera,pollinates,Scaevola taccada
+617,Apis mellifera,pollinates,Erica
+618,Apis mellifera,pollinates,Turraea
+619,Apis mellifera,pollinates,Aphloia theiformis
+620,Apis mellifera,pollinates,Bakerella
+621,Apis mellifera,pollinates,Ochna
+622,Apis mellifera,pollinates,Ehretia
+623,Apis mellifera,pollinates,Chassalia
+624,Apis mellifera,pollinates,Gaertnera
+625,Apis mellifera,pollinates,Mimusops
+626,Apis mellifera,pollinates,Diospyros
+627,Apis mellifera,pollinates,Psychotria
+628,Apis mellifera,pollinates,Calophyllum
+629,Apis mellifera,pollinates,Ternstroemia
+630,Apis mellifera,pollinates,Securinega
+631,Apis mellifera,pollinates,Morinda citrifolia
+632,Apis mellifera,pollinates,Dillenia
+633,Apis mellifera,pollinates,Eugenia
+634,Apis mellifera,pollinates,Olea
+635,Apis mellifera,pollinates,Canthium
+636,Apis mellifera,pollinates,Smilax anceps
+637,Apis mellifera,pollinates,Deckenia nobilis
+638,Apis mellifera,pollinates,Phoenicophorium borsigianum
+639,Apis mellifera,pollinates,Cassiope tetragona
+640,Apis mellifera,pollinates,Salix
+641,Apis mellifera,pollinates,Geraniaceae
+642,Apis mellifera,pollinates,Cytisus
+643,Apis mellifera,pollinates,Ulex
+644,Apis mellifera,pollinates,Ononis
+645,Apis mellifera,pollinates,Calliandra
+646,Apis mellifera,pollinates,Xyris
+647,Apis mellifera,pollinates,Coffea
+648,Apis mellifera,pollinates,Sorbus
+649,Apis mellifera,pollinates,Pandanus
+650,Apis mellifera,pollinates,Hemerocallis
+651,Apis mellifera,pollinates,Muscari
+652,Apis mellifera,pollinates,Scilla
+653,Apis mellifera,pollinates,Chrysanthemum
+654,Apis mellifera,pollinates,Heliotropium
+655,Apis mellifera,pollinates,Ipomoea
+656,Apis mellifera,pollinates,Stachys
+657,Apis mellifera,pollinates,Vitex
+658,Apis mellifera,pollinates,Erythroxylum
+659,Apis mellifera,pollinates,Teucrium
+660,Apis mellifera,pollinates,Hydrangea
+661,Apis mellifera,pollinates,Echium
+662,Apis mellifera,pollinates,Vernonia
+663,Apis mellifera,pollinates,Centaurea
+664,Apis mellifera,pollinates,Hypericum
+665,Apis mellifera,pollinates,Miconia
+666,Apis mellifera,pollinates,Pittosporum
+667,Apis mellifera,pollinates,Verbascum
+668,Apis mellifera,pollinates,Lavandula
+669,Apis mellifera,pollinates,Ligustrum obtusifolium
+670,Apis mellifera,pollinates,Capparis
+671,Apis mellifera,pollinates,Elaeagnus
+672,Apis mellifera,pollinates,Casearia
+673,Apis mellifera,pollinates,Helichrysum
+674,Apis mellifera,pollinates,Anchusa
+675,Apis mellifera,pollinates,Gaultheria
+676,Apis mellifera,pollinates,Vismia
+677,Apis mellifera,pollinates,Cimicifuga
+678,Apis mellifera,pollinates,Dendropanax
+679,Apis mellifera,pollinates,Echinops
+680,Apis mellifera,pollinates,Holodiscus dumosus
+681,Apis mellifera,pollinates,Leucaena leucocephala
+682,Apis mellifera,pollinates,Mikania micrantha
+683,Apis mellifera,pollinates,Acanthus spinosus
+684,Apis mellifera,pollinates,Cinnamomum verum
+685,Apis mellifera,pollinates,Tradescantia virginiana
+686,Apis mellifera,pollinates,Stachytarpheta jamaicensis
+687,Apis mellifera,pollinates,Lantana involucrata
+688,Apis mellifera,pollinates,Jamesia americana
+689,Apis mellifera,pollinates,Trientalis europaea
+690,Apis mellifera,pollinates,Kalmia polifolia
+691,Apis mellifera,pollinates,Passiflora suberosa
+692,Apis mellifera,pollinates,Talipariti tiliaceum
+693,Apis mellifera,pollinates,Opuntia stricta
+694,Apis mellifera,pollinates,Enemion biternatum
+695,Apis mellifera,pollinates,Rubus ulmifolius
+696,Apis mellifera,pollinates,Paraserianthes falcataria
+697,Apis mellifera,pollinates,Geranium rotundifolium
+698,Apis mellifera,pollinates,Scabiosa atropurpurea
+699,Apis mellifera,pollinates,Rosa rubiginosa
+700,Apis mellifera,pollinates,Veronica persica
+701,Apis mellifera,pollinates,Carduus pycnocephalus
+702,Apis mellifera,pollinates,Echium plantagineum
+703,Apis mellifera,pollinates,Sternbergia lutea
+704,Apis mellifera,pollinates,Allium neapolitanum
+705,Apis mellifera,pollinates,Fritillaria graeca
+706,Apis mellifera,pollinates,Sideroxylon
+707,Apis mellifera,pollinates,Psidium cattleianum
+708,Apis mellifera,pollinates,Syzygium
+709,Apis mellifera,pollinates,Embothrium coccineum
+710,Apis mellifera,pollinates,Berberis buxifolia
+711,Apis mellifera,pollinates,Rosmarinus officinalis
+712,Apis mellifera,pollinates,Genista anglica
+713,Apis mellifera,pollinates,Anemone americana
+714,Apis mellifera,pollinates,Gaylussacia baccata
+715,Apis mellifera,pollinates,Morinda royoc
+716,Apis mellifera,pollinates,Agarista salicifolia
+717,Apis mellifera,pollinates,Rhaphithamnus spinosus
+718,Apis mellifera,pollinates,Trochetia blackburniana
+719,Apis mellifera,pollinates,Amomyrtus luma
+720,Apis mellifera,pollinates,Amomyrtus meli
+721,Apis mellifera,pollinates,Myrceugenia ovata
+722,Apis mellifera,pollinates,Myrceugenia parvifolia
+723,Apis mellifera,pollinates,Myrceugenia planipes
+724,Apis mellifera,pollinates,Tepualia stipularis
+725,Apis mellifera,pollinates,Ugni molinae
+726,Apis mellifera,pollinates,Ovidia andina
+727,Apis mellifera,pollinates,Caldcluvia paniculata
+728,Apis mellifera,pollinates,Eucryphia cordifolia
+729,Apis mellifera,pollinates,Hydrangea serratifolia
+730,Apis mellifera,pollinates,Cordia gerascanthus
+731,Apis mellifera,pollinates,Pieris japonica
+732,Apis mellifera,pollinates,Cirsium oleraceum
+733,Apis mellifera,pollinates,Epilobium hirsutum
+734,Apis mellifera,pollinates,Malva sylvestris
+735,Apis mellifera,pollinates,Hydrangea macrophylla
+736,Apis mellifera,pollinates,Stachys sylvatica
+737,Apis mellifera,pollinates,Centaurea jacea
+738,Apis mellifera,pollinates,Ulex minor
+739,Apis mellifera,pollinates,Saxifraga oppositifolia
+740,Apis mellifera,pollinates,Calendula arvensis
+741,Apis mellifera,pollinates,Erica tetralix
+742,Apis mellifera,pollinates,Papaver rhoeas
+743,Apis mellifera,pollinates,Anemone coronaria
+744,Apis mellifera,pollinates,Solidago virgaurea
+745,Apis mellifera,pollinates,Lythrum salicaria
+746,Apis mellifera,pollinates,Vaccinium myrtilloides
+747,Apis mellifera,pollinates,Succisa pratensis
+748,Apis mellifera,pollinates,Potentilla erecta
+749,Apis mellifera,pollinates,Sherardia arvensis
+750,Apis mellifera,pollinates,Fallopia japonica
+751,Apis mellifera,pollinates,Berberis thunbergii
+752,Apis mellifera,pollinates,Salix aurita
+753,Apis mellifera,pollinates,Brassica rapa oleifera
+754,Apis mellifera,pollinates,Sisymbrium orientale
+755,Apis mellifera,pollinates,Vaccinium myrtillus
+756,Apis mellifera,pollinates,Rubus idaeus
+757,Apis mellifera,pollinates,Salix repens
+758,Apis mellifera,pollinates,Calluna vulgaris
+759,Apis mellifera,pollinates,Hieracium umbellatum
+760,Apis mellifera,pollinates,Centaurea nigra
+761,Apis mellifera,pollinates,Hypochaeris radicata
+762,Apis mellifera,pollinates,Angelica sylvestris
+763,Apis mellifera,pollinates,Cytisus scoparius
+764,Apis mellifera,pollinates,Linaria vulgaris
+765,Apis mellifera,pollinates,Sanguinaria canadensis
+766,Apis mellifera,pollinates,Dicentra cucullaria
+767,Apis mellifera,pollinates,Lotus corniculatus
+768,Apis mellifera,pollinates,Trifolium stellatum
+769,Apis mellifera,pollinates,Persicaria amphibia
+770,Apis mellifera,pollinates,Trifolium arvense
+771,Apis mellifera,pollinates,Cardamine concatenata
+772,Apis mellifera,pollinates,Cirsium arvense
+773,Apis mellifera,pollinates,Campanula rotundifolia
+774,Apis mellifera,pollinates,Dalea purpurea
+775,Apis mellifera,pollinates,Dalea candida
+776,Apis mellifera,pollinates,Claytonia virginica
+777,Apis mellifera,pollinates,Erythronium albidum
+778,Apis mellifera,pollinates,Iris pseudacorus
+779,Apis mellifera,pollinates,Vaccinium
+780,Apis mellifera,pollinates,Arctostaphylos uva-ursi
+781,Apis mellifera,pollinates,Rosa acicularis
+782,Apis mellifera,pollinates,Chamerion angustifolium
+783,Apis mellifera,pollinates,Solidago missouriensis
+784,Apis mellifera,pollinates,Daucus carota carota
+785,Apis mellifera,pollinates,Cistus
+786,Apis mellifera,pollinates,Salvia
+787,Apis mellifera,pollinates,Allium
+788,Apis mellifera,pollinates,Epilobium
+789,Apis mellifera,pollinates,Convolvulus
+790,Apis mellifera,pollinates,Hieracium
+791,Apis mellifera,pollinates,Hypochaeris
+792,Apis mellifera,pollinates,Salix fragilis
+793,Apis mellifera,pollinates,Vaccinium uliginosum
+794,Apis mellifera,pollinates,Vaccinium vitis-idaea
+795,Apis mellifera,pollinates,Gevuina avellana
+796,Apis mellifera,pollinates,Medicago lupulina
+797,Apis mellifera,pollinates,Trifolium repens
+798,Apis mellifera,pollinates,Bidens frondosa
+799,Apis mellifera,pollinates,Polygonum ellipticum
+800,Apis mellifera,pollinates,Diospyros
+801,Apis mellifera,pollinates,Convolvulus arvensis
+802,Apis mellifera,pollinates,null
+803,Apis mellifera,pollinates,Cordia
+804,Apis mellifera,pollinates,Sideroxylon
+805,Apis mellifera,pollinates,Avicennia germinans
+806,Apis mellifera,pollinates,Chrysobalanus
+807,Apis mellifera,pollinates,Cirsium vulgare
+808,Apis mellifera,pollinates,Euphorbia
+809,Apis mellifera,pollinates,Sanguinaria canadensis
+810,Apis mellifera,pollinates,Rhododendron
+811,Apis mellifera,pollinates,Taraxacum officinale
+812,Apis mellifera,pollinates,Croton
+813,Apis mellifera,pollinates,Lamium amplexicaule
+814,Apis mellifera,pollinates,Erodium cicutarium
+815,Apis mellifera,pollinates,Ranunculus
+816,Apis mellifera,pollinates,Silene
+817,Apis mellifera,pollinates,Senecio vulgaris
+818,Apis mellifera,pollinates,Empetrum nigrum
+819,Apis mellifera,pollinates,Opuntia
+820,Apis mellifera,pollinates,Empetrum nigrum
+821,Apis mellifera,pollinates,Opuntia
+822,Apis mellifera,pollinates,Apis mellifera
+823,Apis mellifera,pollinates,Apis mellifera
+824,Apis mellifera,pollinates,Peltodon radicans
+825,Apis mellifera,pollinates,Barrosoa betonicifolia
+826,Apis mellifera,pollinates,Campuloclinium megacephalum
+827,Apis mellifera,pollinates,Eremanthus erythropappus
+828,Apis mellifera,pollinates,Galianthe brasiliensis
+829,Apis mellifera,pollinates,Grazielia gaudichaudeana
+830,Apis mellifera,pollinates,Stevia myriadenia
+831,Apis mellifera,pollinates,Eupatorium compressum
+832,Apis mellifera,pollinates,Galianthe angustifolia
+833,Apis mellifera,pollinates,Hyptis
+834,Apis mellifera,pollinates,Borreria
+835,Apis mellifera,pollinates,Verbena
+836,Apis mellifera,pollinates,Sisyrinchium
+837,Apis mellifera,pollinates,Eupatorium
+838,Apis mellifera,pollinates,Ilex
+839,Apis mellifera,pollinates,Gaylussacia
+840,Apis mellifera,pollinates,Vernonia
+841,Apis mellifera,pollinates,Mikania
+842,Apis mellifera,pollinates,Clethra
+843,Apis mellifera,pollinates,Baccharis
+844,Apis mellifera,pollinates,Convolvulus
+845,Apis mellifera,pollinates,Hypochaeris
+846,Apis mellifera,pollinates,Wahlenbergia
+847,Apis mellifera,pollinates,Peltodon radicans
+848,Apis mellifera,pollinates,Barrosoa betonicifolia
+849,Apis mellifera,pollinates,Campuloclinium megacephalum
+850,Apis mellifera,pollinates,Eremanthus erythropappus
+851,Apis mellifera,pollinates,Galianthe brasiliensis
+852,Apis mellifera,pollinates,Grazielia gaudichaudeana
+853,Apis mellifera,pollinates,Stevia myriadenia
+854,Apis mellifera,pollinates,Eupatorium compressum
+855,Apis mellifera,pollinates,Galianthe angustifolia
+856,Apis mellifera,pollinates,Hyptis
+857,Apis mellifera,pollinates,Borreria
+858,Apis mellifera,pollinates,Verbena
+859,Apis mellifera,pollinates,Sisyrinchium
+860,Apis mellifera,pollinates,Eupatorium
+861,Apis mellifera,pollinates,Ilex
+862,Apis mellifera,pollinates,Gaylussacia
+863,Apis mellifera,pollinates,Vernonia
+864,Apis mellifera,pollinates,Mikania
+865,Apis mellifera,pollinates,Clethra
+866,Apis mellifera,pollinates,Baccharis
+867,Apis mellifera,pollinates,Convolvulus
+868,Apis mellifera,pollinates,Hypochaeris
+869,Apis mellifera,pollinates,Wahlenbergia
+870,Apis mellifera,pollinates,Cuphea
+871,Apis mellifera,pollinates,Croton
+872,Apis mellifera,pollinates,Cuphea
+873,Apis mellifera,pollinates,Croton
+0,Daucus carota,pollinates,Stenopterus creticus
+1,Daucus carota,pollinates,Oxythyrea cinctella
+2,Daucus carota,pollinates,Stenopterus creticus
+3,Daucus carota,pollinates,Oxythyrea cinctella

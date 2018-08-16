@@ -1,0 +1,305 @@
+,source_taxon_name,interaction_type,target_taxon_name
+0,Brassica rapa pekinensis,interactsWith,Lipaphis pseudobrassicae
+1,Brassica rapa pekinensis,interactsWith,Myzus
+2,Brassica rapa pekinensis,interactsWith,Lipaphis pseudobrassicae
+3,Brassica rapa pekinensis,interactsWith,Myzus
+4,Brassica rapa pekinensis,interactsWith,Hyaloperonospora parasitica
+5,Brassica rapa pekinensis,interactsWith,Peronospora parasitica
+6,Brassica rapa pekinensis,interactsWith,Hyaloperonospora parasitica
+7,Brassica rapa pekinensis,interactsWith,Peronospora parasitica
+8,Brassica rapa pekinensis,interactsWith,Brassica rapa pekinensis
+9,Brassica rapa pekinensis,interactsWith,Brassica rapa pekinensis
+10,Brassica rapa pekinensis,hasParasite,Brachymeria bengalensis
+11,Brassica rapa pekinensis,hasParasite,Brachymeria lasus
+12,Brassica rapa pekinensis,hasParasite,Brachymeria bengalensis
+13,Brassica rapa pekinensis,hasParasite,Brachymeria lasus
+14,Brassica rapa pekinensis,hasPathogen,Erwinia
+15,Brassica rapa pekinensis,hasPathogen,Erwinia carotovora
+16,Brassica rapa pekinensis,hasPathogen,Xanthomonas campestris
+17,Brassica rapa pekinensis,hasPathogen,Erwinia
+18,Brassica rapa pekinensis,hasPathogen,Erwinia carotovora
+19,Brassica rapa pekinensis,hasPathogen,Xanthomonas campestris
+0,Brassica oleracea capitata,interactsWith,Graphium
+1,Brassica oleracea capitata,interactsWith,Alternaria
+2,Brassica oleracea capitata,interactsWith,Ascochyta
+3,Brassica oleracea capitata,interactsWith,Cephalotrichum
+4,Brassica oleracea capitata,interactsWith,Diplodiella
+5,Brassica oleracea capitata,interactsWith,Ascochyta brassicae
+6,Brassica oleracea capitata,interactsWith,Diplodiella brassicae
+7,Brassica oleracea capitata,interactsWith,Ctenomyces serratus
+8,Brassica oleracea capitata,interactsWith,Arnium olerum
+9,Brassica oleracea capitata,interactsWith,Pyxidiophora petchii
+10,Brassica oleracea capitata,interactsWith,Olpidium brassicae
+11,Brassica oleracea capitata,interactsWith,Plasmodiophora brassicae
+12,Brassica oleracea capitata,interactsWith,Thrips angusticeps
+13,Brassica oleracea capitata,interactsWith,Mamestra brassicae
+14,Brassica oleracea capitata,interactsWith,Ceutorhynchus assimilis
+15,Brassica oleracea capitata,interactsWith,Albugo candida
+16,Brassica oleracea capitata,interactsWith,Graphium putredinis
+17,Brassica oleracea capitata,interactsWith,Heterodera cruciferae
+18,Brassica oleracea capitata,interactsWith,Alternaria brassicae
+19,Brassica oleracea capitata,interactsWith,Alternaria brassicicola
+20,Brassica oleracea capitata,interactsWith,Pyrenopeziza brassicae
+21,Brassica oleracea capitata,interactsWith,Mycosphaerella brassicicola
+22,Brassica oleracea capitata,interactsWith,Asterostromella
+23,Brassica oleracea capitata,interactsWith,Gibberella cyanogena
+24,Brassica oleracea capitata,interactsWith,Pieris rapae
+25,Brassica oleracea capitata,interactsWith,Cephalotrichum purpureofuscum
+26,Brassica oleracea capitata,interactsWith,Doratomyces purpureofuscus
+27,Brassica oleracea capitata,interactsWith,Graphium
+28,Brassica oleracea capitata,interactsWith,Alternaria
+29,Brassica oleracea capitata,interactsWith,Ascochyta
+30,Brassica oleracea capitata,interactsWith,Cephalotrichum
+31,Brassica oleracea capitata,interactsWith,Diplodiella
+32,Brassica oleracea capitata,interactsWith,Ascochyta brassicae
+33,Brassica oleracea capitata,interactsWith,Diplodiella brassicae
+34,Brassica oleracea capitata,interactsWith,Ctenomyces serratus
+35,Brassica oleracea capitata,interactsWith,Arnium olerum
+36,Brassica oleracea capitata,interactsWith,Pyxidiophora petchii
+37,Brassica oleracea capitata,eatenBy,Loxostege sticticalis
+38,Brassica oleracea capitata,eatenBy,Agrotis subterranea
+39,Brassica oleracea capitata,eatenBy,Autographa biloba
+40,Brassica oleracea capitata,eatenBy,Zethenia rufescentaria
+41,Brassica oleracea capitata,eatenBy,Chrysodeixis eriosoma
+42,Brassica oleracea capitata,eatenBy,Peridroma saucia
+43,Brassica oleracea capitata,eatenBy,Autographa gamma
+44,Brassica oleracea capitata,eatenBy,Pieris brassicae
+45,Brassica oleracea capitata,eatenBy,Mamestra brassicae
+46,Brassica oleracea capitata,eatenBy,Pieris rapae
+47,Brassica oleracea capitata,hasPathogen,Erwinia
+48,Brassica oleracea capitata,hasPathogen,Erwinia carotovora
+49,Brassica oleracea capitata,hasPathogen,Xanthomonas campestris
+50,Brassica oleracea capitata,eatenBy,Loxostege sticticalis
+51,Brassica oleracea capitata,eatenBy,Agrotis subterranea
+52,Brassica oleracea capitata,eatenBy,Autographa biloba
+53,Brassica oleracea capitata,eatenBy,Zethenia rufescentaria
+54,Brassica oleracea capitata,eatenBy,Chrysodeixis eriosoma
+55,Brassica oleracea capitata,eatenBy,Peridroma saucia
+56,Brassica oleracea capitata,eatenBy,Autographa gamma
+57,Brassica oleracea capitata,eatenBy,Pieris brassicae
+58,Brassica oleracea capitata,eatenBy,Mamestra brassicae
+59,Brassica oleracea capitata,eatenBy,Pieris rapae
+60,Brassica oleracea capitata,eatenBy,Brevicoryne brassicae
+61,Brassica oleracea capitata,eatenBy,Agrotis ipsilon
+62,Brassica oleracea capitata,eatenBy,Spodoptera frugiperda
+63,Brassica oleracea capitata,eatenBy,Autographa precationis
+64,Brassica oleracea capitata,eatenBy,Trichoplusia ni
+65,Brassica oleracea capitata,eatenBy,Leptinotarsa decemlineata
+66,Brassica oleracea capitata,eatenBy,Brevicoryne brassicae
+67,Brassica oleracea capitata,eatenBy,Agrotis ipsilon
+68,Brassica oleracea capitata,eatenBy,Spodoptera frugiperda
+69,Brassica oleracea capitata,eatenBy,Autographa precationis
+70,Brassica oleracea capitata,interactsWith,Olpidium brassicae
+71,Brassica oleracea capitata,interactsWith,Plasmodiophora brassicae
+72,Brassica oleracea capitata,interactsWith,Thrips angusticeps
+73,Brassica oleracea capitata,interactsWith,Mamestra brassicae
+74,Brassica oleracea capitata,interactsWith,Ceutorhynchus assimilis
+75,Brassica oleracea capitata,interactsWith,Albugo candida
+76,Brassica oleracea capitata,interactsWith,Graphium putredinis
+77,Brassica oleracea capitata,interactsWith,Heterodera cruciferae
+78,Brassica oleracea capitata,interactsWith,Alternaria brassicae
+79,Brassica oleracea capitata,interactsWith,Alternaria brassicicola
+80,Brassica oleracea capitata,interactsWith,Pyrenopeziza brassicae
+81,Brassica oleracea capitata,interactsWith,Mycosphaerella brassicicola
+82,Brassica oleracea capitata,interactsWith,Asterostromella
+83,Brassica oleracea capitata,interactsWith,Gibberella cyanogena
+84,Brassica oleracea capitata,interactsWith,Pieris rapae
+85,Brassica oleracea capitata,interactsWith,Cephalotrichum purpureofuscum
+86,Brassica oleracea capitata,interactsWith,Doratomyces purpureofuscus
+87,Brassica oleracea capitata,interactsWith,Hyaloperonospora parasitica
+88,Brassica oleracea capitata,interactsWith,Peronospora parasitica
+89,Brassica oleracea capitata,interactsWith,Brevicoryne brassicae
+90,Brassica oleracea capitata,interactsWith,Fusarium oxysporum
+91,Brassica oleracea capitata,interactsWith,Delia radicum
+92,Brassica oleracea capitata,interactsWith,Hyaloperonospora parasitica
+93,Brassica oleracea capitata,interactsWith,Peronospora parasitica
+94,Brassica oleracea capitata,interactsWith,Brevicoryne brassicae
+95,Brassica oleracea capitata,interactsWith,Fusarium oxysporum
+96,Brassica oleracea capitata,interactsWith,Brassica oleracea capitata
+97,Brassica oleracea capitata,interactsWith,Brassica oleracea capitata
+98,Brassica oleracea capitata,hasPathogen,Erwinia
+99,Brassica oleracea capitata,hasPathogen,Erwinia carotovora
+100,Brassica oleracea capitata,hasPathogen,Xanthomonas campestris
+101,Brassica oleracea capitata,eatenBy,Trichoplusia ni
+102,Brassica oleracea capitata,eatenBy,Leptinotarsa decemlineata
+103,Brassica oleracea capitata,interactsWith,Delia radicum
+104,Brassica oleracea capitata,interactsWith,Diplodiella brassicae
+105,Brassica oleracea capitata,interactsWith,Ascochyta brassicae
+106,Brassica oleracea capitata,interactsWith,Albugo candida
+107,Brassica oleracea capitata,interactsWith,Ceutorhynchus assimilis
+108,Brassica oleracea capitata,interactsWith,Plasmodiophora brassicae
+109,Brassica oleracea capitata,interactsWith,Diplodiella brassicae
+110,Brassica oleracea capitata,interactsWith,Ascochyta brassicae
+111,Brassica oleracea capitata,interactsWith,Albugo candida
+112,Brassica oleracea capitata,interactsWith,Ceutorhynchus assimilis
+113,Brassica oleracea capitata,interactsWith,Plasmodiophora brassicae
+114,Brassica oleracea capitata,interactsWith,Heterodera cruciferae
+115,Brassica oleracea capitata,interactsWith,Alternaria brassicae
+116,Brassica oleracea capitata,interactsWith,Pyrenopeziza brassicae
+117,Brassica oleracea capitata,interactsWith,Alternaria brassicicola
+118,Brassica oleracea capitata,interactsWith,Heterodera cruciferae
+119,Brassica oleracea capitata,interactsWith,Alternaria brassicae
+120,Brassica oleracea capitata,interactsWith,Pyrenopeziza brassicae
+121,Brassica oleracea capitata,interactsWith,Alternaria brassicicola
+122,Brassica oleracea capitata,hostOf,Pieris rapae
+123,Brassica oleracea capitata,hostOf,Pieris rapae
+124,Brassica oleracea capitata,eatenBy,Thrips angusticeps
+125,Brassica oleracea capitata,eatenBy,Graphium putredinis
+126,Brassica oleracea capitata,eatenBy,Arnium olerum
+127,Brassica oleracea capitata,eatenBy,Cephalotrichum purpureofuscum
+128,Brassica oleracea capitata,eatenBy,Ctenomyces serratus
+129,Brassica oleracea capitata,eatenBy,Pyxidiophora petchii
+130,Brassica oleracea capitata,eatenBy,Delia radicum
+131,Brassica oleracea capitata,eatenBy,Mamestra brassicae
+132,Brassica oleracea capitata,eatenBy,Mycosphaerella brassicicola
+133,Brassica oleracea capitata,eatenBy,Pieris rapae
+134,Brassica oleracea capitata,eatenBy,Brevicoryne brassicae
+135,Brassica oleracea capitata,eatenBy,Thrips angusticeps
+136,Brassica oleracea capitata,eatenBy,Graphium putredinis
+137,Brassica oleracea capitata,eatenBy,Arnium olerum
+138,Brassica oleracea capitata,eatenBy,Cephalotrichum purpureofuscum
+139,Brassica oleracea capitata,eatenBy,Ctenomyces serratus
+140,Brassica oleracea capitata,eatenBy,Pyxidiophora petchii
+141,Brassica oleracea capitata,eatenBy,Delia radicum
+142,Brassica oleracea capitata,eatenBy,Mamestra brassicae
+143,Brassica oleracea capitata,eatenBy,Mycosphaerella brassicicola
+144,Brassica oleracea capitata,eatenBy,Pieris rapae
+145,Brassica oleracea capitata,eatenBy,Brevicoryne brassicae
+146,Brassica oleracea capitata,eatenBy,Gibberella cyanogena
+147,Brassica oleracea capitata,eatenBy,Gibberella cyanogena
+148,Brassica oleracea capitata,hasParasite,Peronospora parasitica
+149,Brassica oleracea capitata,hasParasite,Peronospora parasitica
+150,Brassica oleracea capitata,hasParasite,Olpidium brassicae
+151,Brassica oleracea capitata,hasParasite,Olpidium brassicae
+152,Brassica oleracea capitata,hasPathogen,Cauliflower Mosaic virus
+153,Brassica oleracea capitata,hasPathogen,Radish Mosaic virus
+154,Brassica oleracea capitata,hasPathogen,Fusarium oxysporum f.sp. conglutinans
+155,Brassica oleracea capitata,hasPathogen,Mycosphaerella brassicicola
+156,Brassica oleracea capitata,hasPathogen,Cauliflower Mosaic virus
+157,Brassica oleracea capitata,hasPathogen,Radish Mosaic virus
+158,Brassica oleracea capitata,hasPathogen,Fusarium oxysporum f.sp. conglutinans
+159,Brassica oleracea capitata,hasPathogen,Mycosphaerella brassicicola
+160,Brassica oleracea capitata,hasPathogen,Aphanomyces raphani
+161,Brassica oleracea capitata,hasPathogen,turnip
+162,Brassica oleracea capitata,hasPathogen,Aphanomyces raphani
+163,Brassica oleracea capitata,hasPathogen,turnip
+164,Brassica oleracea capitata,livedUnderBy,Mamestra brassicae
+165,Brassica oleracea capitata,livedUnderBy,Mamestra brassicae
+0,Allium tuberosum,interactsWith,Eristalis flavipes
+1,Allium tuberosum,interactsWith,Eristalis flavipes
+2,Allium tuberosum,flowersVisitedBy,Bombus affinis
+3,Allium tuberosum,flowersVisitedBy,Bombus affinis
+4,Allium tuberosum,flowersVisitedBy,Polistes dominula
+5,Allium tuberosum,flowersVisitedBy,Bombus impatiens
+6,Allium tuberosum,flowersVisitedBy,Pieris rapae
+7,Allium tuberosum,flowersVisitedBy,Apis mellifera
+8,Allium tuberosum,flowersVisitedBy,Polistes dominula
+9,Allium tuberosum,flowersVisitedBy,Bombus impatiens
+10,Allium tuberosum,flowersVisitedBy,Pieris rapae
+11,Allium tuberosum,flowersVisitedBy,Apis mellifera
+12,Allium tuberosum,hostOf,thrips
+13,Allium tuberosum,hostOf,Fusarium proliferatum
+14,Allium tuberosum,hostOf,thrips
+15,Allium tuberosum,hostOf,Fusarium proliferatum
+0,Daucus carota sativus,interactsWith,Alternaria
+1,Daucus carota sativus,interactsWith,Rhizoctonia
+2,Daucus carota sativus,interactsWith,Mycocentrospora
+3,Daucus carota sativus,interactsWith,Meloidogyne
+4,Daucus carota sativus,interactsWith,Myzus
+5,Daucus carota sativus,interactsWith,Dysaphis
+6,Daucus carota sativus,interactsWith,Chalaropsis
+7,Daucus carota sativus,interactsWith,Thielaviopsis
+8,Daucus carota sativus,interactsWith,Cercospora carotae
+9,Daucus carota sativus,interactsWith,Alternaria dauci
+10,Daucus carota sativus,interactsWith,Alternaria radicina
+11,Daucus carota sativus,interactsWith,Thielaviopsis basicola
+12,Daucus carota sativus,interactsWith,Thanatephorus cucumeris
+13,Daucus carota sativus,interactsWith,Ceratocystis paradoxa
+14,Daucus carota sativus,interactsWith,Cuscuta campestris
+15,Daucus carota sativus,interactsWith,Myzus persicae
+16,Daucus carota sativus,interactsWith,Heterodera carotae
+17,Daucus carota sativus,interactsWith,Rhexocercosporidium
+18,Daucus carota sativus,interactsWith,Helicobasidium purpureum
+19,Daucus carota sativus,interactsWith,Rhexocercosporidium carotae
+20,Daucus carota sativus,interactsWith,Plasmopara umbelliferarum
+21,Daucus carota sativus,interactsWith,Alternaria
+22,Daucus carota sativus,interactsWith,Rhizoctonia
+23,Daucus carota sativus,interactsWith,Mycocentrospora
+24,Daucus carota sativus,interactsWith,Meloidogyne
+25,Daucus carota sativus,interactsWith,Myzus
+26,Daucus carota sativus,interactsWith,Dysaphis
+27,Daucus carota sativus,interactsWith,Chalaropsis
+28,Daucus carota sativus,interactsWith,Thielaviopsis
+29,Daucus carota sativus,interactsWith,Cercospora carotae
+30,Daucus carota sativus,interactsWith,Alternaria dauci
+31,Daucus carota sativus,interactsWith,Alternaria radicina
+32,Daucus carota sativus,interactsWith,Thielaviopsis basicola
+33,Daucus carota sativus,interactsWith,Thanatephorus cucumeris
+34,Daucus carota sativus,interactsWith,Ceratocystis paradoxa
+35,Daucus carota sativus,interactsWith,Cuscuta campestris
+36,Daucus carota sativus,interactsWith,Myzus persicae
+37,Daucus carota sativus,interactsWith,Heterodera carotae
+38,Daucus carota sativus,interactsWith,Rhexocercosporidium
+39,Daucus carota sativus,interactsWith,Helicobasidium purpureum
+40,Daucus carota sativus,interactsWith,Rhexocercosporidium carotae
+41,Daucus carota sativus,interactsWith,Plasmopara umbelliferarum
+42,Daucus carota sativus,interactsWith,Helicobasidium brebissonii
+43,Daucus carota sativus,interactsWith,Cavariella aegopodii
+44,Daucus carota sativus,interactsWith,Mycocentrospora acerina
+45,Daucus carota sativus,interactsWith,Plasmopara nivea
+46,Daucus carota sativus,interactsWith,Psila hennigi
+47,Daucus carota sativus,interactsWith,Armillaria mellea
+48,Daucus carota sativus,interactsWith,Daucus carota
+49,Daucus carota sativus,interactsWith,Daucus carota sativus
+50,Daucus carota sativus,interactsWith,Daucus carota sativus
+51,Daucus carota sativus,interactsWith,Cercospora
+52,Daucus carota sativus,interactsWith,Helicobasidium brebissonii
+53,Daucus carota sativus,interactsWith,Cavariella aegopodii
+54,Daucus carota sativus,interactsWith,Mycocentrospora acerina
+55,Daucus carota sativus,interactsWith,Plasmopara nivea
+56,Daucus carota sativus,interactsWith,Psila hennigi
+57,Daucus carota sativus,interactsWith,Armillaria mellea
+58,Daucus carota sativus,interactsWith,Daucus carota
+59,Daucus carota sativus,interactsWith,Cercospora
+60,Daucus carota sativus,interactsWith,Cuscuta campestris
+61,Daucus carota sativus,interactsWith,Alternaria radicina
+62,Daucus carota sativus,interactsWith,Heterodera carotae
+63,Daucus carota sativus,interactsWith,Meloidogyne
+64,Daucus carota sativus,interactsWith,Cuscuta campestris
+65,Daucus carota sativus,interactsWith,Alternaria radicina
+66,Daucus carota sativus,interactsWith,Heterodera carotae
+67,Daucus carota sativus,interactsWith,Meloidogyne
+68,Daucus carota sativus,eatenBy,Chamaepsila rosae
+69,Daucus carota sativus,eatenBy,Chamaepsila rosae
+70,Daucus carota sativus,hasParasite,Cuscuta campestris
+71,Daucus carota sativus,hasParasite,Plasmopara crustosa
+72,Daucus carota sativus,hasParasite,Cuscuta campestris
+73,Daucus carota sativus,hasParasite,Plasmopara crustosa
+74,Daucus carota sativus,hasParasite,Ceratocystis paradoxa
+75,Daucus carota sativus,hasParasite,Ceratocystis paradoxa
+76,Daucus carota sativus,hasPathogen,Carrot red leaf associated RNA
+77,Daucus carota sativus,hasPathogen,Parsnip Yellow Fleck virus (PYFV)
+78,Daucus carota sativus,hasPathogen,Carrot Mottle virus (CMoV)
+79,Daucus carota sativus,hasPathogen,Carrot Red Leaf virus (CtRLV)
+80,Daucus carota sativus,hasPathogen,Cercospora carotae
+81,Daucus carota sativus,hasPathogen,Alternaria dauci
+82,Daucus carota sativus,hasPathogen,Alternaria radicina
+83,Daucus carota sativus,hasPathogen,Carrot red leaf associated RNA
+84,Daucus carota sativus,hasPathogen,Parsnip Yellow Fleck virus (PYFV)
+85,Daucus carota sativus,hasPathogen,Carrot Mottle virus (CMoV)
+86,Daucus carota sativus,hasPathogen,Carrot Red Leaf virus (CtRLV)
+87,Daucus carota sativus,hasPathogen,Cercospora carotae
+88,Daucus carota sativus,hasPathogen,Alternaria dauci
+89,Daucus carota sativus,hasPathogen,Alternaria radicina
+90,Daucus carota sativus,hasPathogen,Armillaria mellea
+91,Daucus carota sativus,hasPathogen,Helicobasidium purpureum
+92,Daucus carota sativus,hasPathogen,Thanatephorus cucumeris
+93,Daucus carota sativus,hasPathogen,Thielaviopsis basicola
+94,Daucus carota sativus,hasPathogen,Mycocentrospora acerina
+95,Daucus carota sativus,hasPathogen,Rhexocercosporidium carotae
+96,Daucus carota sativus,hasPathogen,Armillaria mellea
+97,Daucus carota sativus,hasPathogen,Helicobasidium purpureum
+98,Daucus carota sativus,hasPathogen,Thanatephorus cucumeris
+99,Daucus carota sativus,hasPathogen,Thielaviopsis basicola
+100,Daucus carota sativus,hasPathogen,Mycocentrospora acerina
+101,Daucus carota sativus,hasPathogen,Rhexocercosporidium carotae
